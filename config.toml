@@ -1,0 +1,114 @@
+baseURL = "https://cives.cfg"
+languageCode = "en-us"
+title = "Cives. Centro de Mediación."
+theme = "hugo-arcana"
+copyright = "© Cives, CM. All rights reserved"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "Cives \\n Centro de Mediación \\n"
+    show_post_dates = false
+
+    [[params.social]]
+        title = "Twitter"
+        icon = "fa-twitter"
+        url = "https://twitter.com/cives"
+        description = "Cuenta de Twitter"
+    
+    [[params.social]]
+        title = "Facebook"
+        icon = "fa-facebook-f"
+        url = "https: //www.facebook.com/cives"
+        description = "Facebook de la Cives"
+        
+    [[params.social]]
+        title = "GitHub"
+        icon = "fa-github"
+        url = "htpp://github.com/cives"
+        description = "Github"
+        
+    [[params.social]]
+        title = "LinkedIn"
+        icon = "fa-linkedin-in"
+        url = "htpp://www.linkedin.com/in/cives"
+        description = "Linkedin"
+        
+    [[params.social]]
+        title = "Creative Commons"
+        icon = "fa-creative-commons"
+        url = "https://creativecommons.org/"
+
+
+    [params.footer]
+
+        [[params.footer.links]]
+            header = "Nosotros"
+        [[params.footer.links.links]]
+            title = "¿De qué se trata?"
+            url = "/content/footer/De_que_se_trata.md"
+            
+        [[params.footer.links.links]]
+            title = "Base Legal"
+            url = "/Baseline_Legal/"
+            
+        [[params.footer.links.links]]
+            title = "Lecturas"
+            url = "Lectura_de_cives/"
+            
+        [[params.footer.links.links]]
+            title = "Rutrum accumsan dolor"
+            url = "/Rutrum_accumsan_dolor/"
+            
+      ###################################################      
+      #  [[params.footer.links.links]]                  #
+      #  [[params.footer.links.links]]                  #  
+      #      title = "Mattis rutrum accumsan"           #
+      #      url = "Mattis_rutrum_accumsan/"            #
+      #  [[params.footer.links.links]]                  #
+      #  [[params.footer.links.links]]                  #  
+      #      title = "Rutrum accumsan dolor"            #    
+      #      url = "#"                                  #
+      #  [[params.footer.links.links]]                  #
+      #  [[params.footer.links.links]]                  #
+      #      
+      #  [[params.footer.links.links]]
+      #      title = "Suspendisse varius nibh"
+      #       url = "#"
+      #  [[params.footer.links.links]]
+      #      title = "Sed et dapibus mattis"
+      #      url = "#"
+      ###################################################
+        [[params.footer.links]]
+            header = "Más Información"
+        [[params.footer.links.links]]
+            title = "Fallos"
+            url = "/content/post/fallos/"
+            
+        [[params.footer.links.links]]
+            title = "Legislación Accesoria"
+            url = "/content/post/legislacion_accesoria/"
+            
+        [[params.footer.links.links]]
+            title = "Rutrum accumsan sed"
+            url = "/content/post/rutrum_accumsan/"
+        [[params.footer.links.links]]
+            title = "Mattis et sed accumsan"
+            url = "http://www.mattis.com/rutrum-accumsan/"
+            
+        [[params.footer.links.links]]
+            title = "Duis neque nisi sed"
+            url = "/content/post/duis_neque_nisi/"
+        [[params.footer.links.links]]
+            title = "Sed et dapibus quis"
+            url = "/content/post/sed_et_dapibus_quis/"
+            
+        [[params.footer.links.links]]
+            title = "Rutrum amet varius"
+            url = "/content/post/rutrum_amet_varius/"
+
+        [params.footer.contact_form]
+            enabled = true
+            header = "Contacta con Nosotros"
+            action = "https://formspree.io/f/xqkjrbjv"

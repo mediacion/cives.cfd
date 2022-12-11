@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cives. Centro de Mediación.</title>
+    <link>https://cives.cfg/tags/</link>
+    <description>Recent content in Tags on Cives. Centro de Mediación.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Cives, CM. All rights reserved</copyright><atom:link href="https://cives.cfg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>content</title>
+      <link>https://cives.cfg/tags/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cives.cfg/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>examples</title>
+      <link>https://cives.cfg/tags/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cives.cfg/tags/examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sidebar</title>
+      <link>https://cives.cfg/tags/sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cives.cfg/tags/sidebar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

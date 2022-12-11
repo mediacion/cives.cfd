@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cives.cfg/left-sidebar/</loc>
+  </url><url>
+    <loc>https://cives.cfg/right-sidebar/</loc>
+  </url><url>
+    <loc>https://cives.cfg/two-sidebar/</loc>
+  </url><url>
+    <loc>https://cives.cfg/no-sidebar/</loc>
+  </url><url>
+    <loc>https://cives.cfg/</loc>
+  </url><url>
+    <loc>https://cives.cfg/tags/content/</loc>
+  </url><url>
+    <loc>https://cives.cfg/tags/examples/</loc>
+  </url><url>
+    <loc>https://cives.cfg/tags/sidebar/</loc>
+  </url><url>
+    <loc>https://cives.cfg/tags/</loc>
+  </url>
+</urlset>
